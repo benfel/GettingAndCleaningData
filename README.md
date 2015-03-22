@@ -28,7 +28,7 @@ directory /project_data, contains all files needed for evaluation by run_analysi
 
 2) change directory into what you created in #1
 
-3) clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+3) clone this repository : git clone https://github.com/benfel/GettingAndCleaningData
 
 4) change directory into the GettingAndCleaningData directory
 
